@@ -1,0 +1,63 @@
+name: KitPvP
+main: me.varmetek.kitserver.main.Main
+version: 1.0.0
+description: KitPvP plugin made by XDMAN500
+authors: [XDMAN500]
+depends: [WorldGuard, WorldEdit, NametagEdit, WGRegionEvents]
+commands:
+  pay:
+  rank:
+  stats: 
+  user:
+  kit:
+    aliases: [class, k]
+  shop:
+  clearkit:
+  lockchat:
+  clearchat:
+  setwarp:
+  warp:
+  removewarp:
+   aliases: [delwarp, rwarp, dwarp]
+  chatsettings:
+    aliases: [chats]
+  ban:
+  unban:
+  tempban:
+   aliases: tban
+  spawn:
+  mute:
+  kick:
+  invsee:
+  mode:
+    aliases: [m]
+  loc:
+  vanish:
+    aliases: [v] 
+  event:
+     aliases: [ev]
+  balance:
+    aliases: [bal, benz, banz, money, mon, pesos, peso]
+  msg:
+    aliases: [tell,whisper,w,message]
+  renew:
+    aliases: [fix ,rep,repair,soup,refill,ref]
+  duel:
+    aliases: [fight ,1v1,ez]
+  queue:
+  reply:
+    aliases: [r]
+  notify:
+  arena:
+  reloadconfig:
+  teleport:
+    aliases: [tp,sp]
+  motd:
+  lookup:
+  kitsettings:
+    aliases: [kitset]
+  warpsettings:
+     aliases: [warpset]
+  gamble:
+     aliases: [bet]
+  perks:
